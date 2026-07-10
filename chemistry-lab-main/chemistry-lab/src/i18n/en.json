@@ -1,0 +1,401 @@
+{
+  "brand": {
+    "shortName": "ChemLab",
+    "fullName": "Virtual Chemistry Lab"
+  },
+  "nav": {
+    "home": "Home",
+    "experiments": "Experiments",
+    "lab": "Virtual Lab",
+    "dashboard": "Dashboard",
+    "leaderboard": "Top Leaders",
+    "reviews": "Reviews",
+    "about": "About",
+    "signin": "Sign In",
+    "getstarted": "Get Started",
+    "profile": "My Profile",
+    "logout": "Log out",
+    "switchToArabic": "العربية",
+    "switchToEnglish": "English"
+  },
+  "common": {
+    "yes": "Yes",
+    "no": "No",
+    "minutes": "{minutes} min",
+    "experiments": "Experiments",
+    "students": "Students",
+    "completedReactions": "Completed Reactions",
+    "learningHours": "Learning Hours",
+    "learnMore": "Learn more"
+  },
+  "hero": {
+    "badge": "Interactive Learning Platform",
+    "title": "Chemistry That Reacts With You",
+    "subtitle": "Run beautiful, safe virtual experiments. Earn XP, unlock badges, and become a chemistry pro.",
+    "cta1": "Start Experimenting",
+    "cta2": "Explore Experiments",
+    "ariaLab": "Open the virtual lab",
+    "ariaExperiments": "Browse chemistry experiments"
+  },
+  "stats": {
+    "experiments": "Interactive Experiments",
+    "students": "Active Students",
+    "countries": "Countries",
+    "rating": "Rating"
+  },
+  "features": {
+    "title": "Why Students Love the Platform",
+    "subtitle": "Everything you need to fall in love with chemistry.",
+    "safe": {
+      "title": "100% Safe",
+      "desc": "No spills or fumes - real reactions in a virtual lab."
+    },
+    "watch": {
+      "title": "Watch Reactions",
+      "desc": "Beautiful animations bring molecules to life before your eyes."
+    },
+    "play": {
+      "title": "Learn by Playing",
+      "desc": "XP points, badges, streaks, and weekly challenges."
+    },
+    "lang": {
+      "title": "Arabic & English",
+      "desc": "Full support for Arabic with RTL layout."
+    }
+  },
+  "experimentsSection": {
+    "title": "Featured Experiments",
+    "subtitle": "Hand-picked to give you a great first experience in the lab.",
+    "learnMore": "Learn more",
+    "start": "Start"
+  },
+  "testimonials": {
+    "title": "What Students & Teachers Say"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "Is the virtual lab free?",
+        "a": "Yes, the platform is completely free for all students and teachers."
+      },
+      {
+        "q": "Does it support Arabic?",
+        "a": "Yes, the site fully supports Arabic with RTL layout."
+      },
+      {
+        "q": "What grade levels is it for?",
+        "a": "Suitable for middle and high school students."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Try, Discover, Master Chemistry - Safely",
+    "cta1": "Get Started",
+    "cta2": "Explore Experiments"
+  },
+  "footer": {
+    "tagline": "Made with love for curious minds.",
+    "product": "Product",
+    "company": "Company",
+    "contact": "Contact",
+    "achievements": "Achievements",
+    "reviews": "Reviews",
+    "rights": "Copyright 2026 Virtual Chemistry Lab"
+  },
+  "experimentsPage": {
+    "title": "Experiments",
+    "subtitle": "Hand-picked to give you a great first experience in the lab.",
+    "all": "All",
+    "start": "Start",
+    "duration": "{minutes} min",
+    "empty": "No experiments match this category yet."
+  },
+  "labPage": {
+    "title": "Virtual Lab",
+    "subtitle": "Mix chemicals, watch the reaction, and learn the science behind it.",
+    "addHCl": "Add HCl",
+    "addNaOH": "Add NaOH",
+    "addIndicator": "Add Indicator",
+    "heat": "Heat",
+    "reset": "Reset",
+    "reagentOH": "OH⁻ Ion",
+    "ph": "pH Level",
+    "temp": "Temperature",
+    "insightTitle": "Interactive Chemistry",
+    "resultsTitle": "Reaction Insights",
+    "statuses": {
+      "idle": "Idle - add a chemical to begin",
+      "addedHCl": "Added hydrochloric acid - pH decreased",
+      "addedNaOH": "Added sodium hydroxide - pH increased",
+      "acidic": "Indicator turns red - solution is acidic",
+      "basic": "Indicator turns blue - solution is basic",
+      "neutral": "Indicator turns green - solution is neutral",
+      "heated": "Heated - temperature is now {temperature}°C",
+      "neutralizationProgress": "Neutralization in progress...",
+      "overflowed": "The flask overflowed!",
+      "overheating": "Reaction is overheating - flames visible!",
+      "explosion": "Reaction complete - a foam explosion occurred!",
+      "noReaction": "No reaction - incompatible particles"
+    },
+    "results": {
+      "idleTitle": "Ready to react",
+      "idleMessage": "Select an acid and an ion to start the simulation.",
+      "idleExplanation": "Hydrochloric acid and hydroxide ions form water and a salt in a neutralization reaction.",
+      "idleEquation": "HCl + OH⁻ → H₂O + Cl⁻",
+      "successTitle": "Neutralization complete",
+      "successMessage": "The particles met and a stable neutralization reaction occurred.",
+      "successExplanation": "Hydrochloric acid donates H⁺ while hydroxide accepts it, forming water and chloride ions. The reaction is exothermic and releases energy.",
+      "errorTitle": "Reaction not possible",
+      "errorMessage": "The selected pair cannot react.",
+      "errorExplanation": "This acid-ion combination does not match the required neutralization interaction, so no product forms.",
+      "equation": "Balanced equation",
+      "products": "Reaction products",
+      "precipitate": "Precipitate forms",
+      "gas": "Gas formation",
+      "colorChange": "Color change",
+      "phBefore": "pH before",
+      "phAfter": "pH after",
+      "energy": "Energy",
+      "explanation": "Scientific explanation",
+      "water": "Water",
+      "chloride": "Chloride ions",
+      "noProducts": "No products",
+      "noColorChange": "No visible color change",
+      "colorNeutral": "Indicator stays neutral",
+      "energyExothermic": "Exothermic",
+      "energyEndothermic": "Endothermic",
+      "energyNone": "None"
+    }
+  },
+  "login": {
+    "title": "Welcome Back",
+    "subtitle": "Sign in to continue your chemistry journey",
+    "email": "Email",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgot": "Forgot password?",
+    "submit": "Sign In",
+    "noAccount": "Don't have an account?",
+    "signup": "Sign up",
+    "errorInvalid": "Incorrect email or password. Try creating a new account.",
+    "note": "Note: this is a temporary account stored only on your device - no real server yet."
+  },
+  "register": {
+    "title": "Create Your Account",
+    "subtitle": "Start learning chemistry the fun way",
+    "fullName": "Full Name (4 parts)",
+    "grade": "Grade",
+    "email": "Email",
+    "password": "Password",
+    "placeholder": "e.g. Leena Ahmad Mohammad Khatib",
+    "selectGrade": "Select grade",
+    "submit": "Create Account",
+    "haveAccount": "Already have an account?",
+    "signin": "Sign in",
+    "fullNameError": "Full name must include at least 4 parts (first, father, grandfather, family).",
+    "gradeError": "Please select your grade.",
+    "duplicateError": "An account with this email already exists. Try logging in instead.",
+    "note": "Note: this is a temporary account stored only on your device - no real server yet."
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "title": "Your Dashboard",
+    "level": "Level",
+    "completed": "Completed",
+    "remaining": "Remaining",
+    "streak": "Day Streak",
+    "recommended": "Recommended For You",
+    "start": "Start"
+  },
+  "profile": {
+    "title": "My Profile",
+    "subtitle": "Temporary account - you can only change your photo for now.",
+    "photoUpdated": "Photo updated!",
+    "photoHint": "Click the camera icon to change your photo",
+    "fullName": "Full Name",
+    "grade": "Grade",
+    "email": "Email",
+    "note": "Once a real backend is connected, you will be able to edit the rest of your info."
+  },
+  "leaderboard": {
+    "title": "Top Leaders",
+    "subtitle": "Top learners this week",
+    "weeklyRanking": "Weekly ranking",
+    "names": {
+      "layla": { "en": "Layla A.", "ar": "ليلى أ." },
+      "omar": { "en": "Omar K.", "ar": "عمر ك." },
+      "sara": { "en": "Sara M.", "ar": "سارة م." },
+      "yousef": { "en": "Yousef R.", "ar": "يوسف ر." },
+      "nour": { "en": "Nour B.", "ar": "نور ب." },
+      "ali": { "en": "Ali H.", "ar": "علي ح." },
+      "you": { "en": "You", "ar": "أنت" }
+    }
+  },
+  "reviews": {
+    "title": "Student Reviews",
+    "subtitle": "See what other students think, or share your own experience.",
+    "seeAll": "See all reviews",
+    "ratingLabel": "{count} reviews",
+    "shareTitle": "Share your review",
+    "placeholder": "What did you like about the platform?",
+    "success": "Thanks for your review! 🎉",
+    "submit": "Submit",
+    "anonymous": "Anonymous Student",
+    "grade": "Grade {grade}"
+  },
+  "achievements": {
+    "title": "Achievements",
+    "subtitle": "Badges you have unlocked on your chemistry journey.",
+    "unlocked": "Unlocked",
+    "locked": "Locked",
+    "items": {
+      "first-experiment": "First Experiment",
+      "streak-5": "5-Day Streak",
+      "quiz-master": "Quiz Master",
+      "fast-learner": "Fast Learner",
+      "perfect-score": "Perfect Score",
+      "chemistry-pro": "Chemistry Pro"
+    }
+  },
+  "about": {
+    "title": "About Virtual Chemistry Lab",
+    "body": "We help middle and high school students master chemistry through safe, interactive experiments and beautiful animations. Built for the classroom, loved at home.",
+    "heroBadge": "Future-ready chemistry learning",
+    "heroTitle": "A modern lab for curious minds",
+    "heroSubtitle": "Explore reactions safely, build confidence, and grow with immersive guided learning.",
+    "heroCta": "Explore the platform",
+    "heroSecondary": "Open the lab",
+    "statsTitle": "Trusted by learners and teachers",
+    "stats": [
+      { "label": "Experiments", "value": "24+" },
+      { "label": "Students", "value": "3k+" },
+      { "label": "Completed reactions", "value": "10k+" },
+      { "label": "Learning hours", "value": "120h+" }
+    ],
+    "timelineTitle": "How students learn with us",
+    "timeline": [
+      { "title": "Discover", "text": "Start with a story-driven introduction that makes the chemistry concept feel relevant and exciting." },
+      { "title": "Experiment", "text": "Use the virtual lab to observe reactions, test hypotheses, and collect evidence safely." },
+      { "title": "Reflect", "text": "Review the results and connect the science to real world applications." }
+    ],
+    "platformFeaturesTitle": "Platform features",
+    "platformFeatures": [
+      { "title": "Immersive experiments", "text": "Beautiful simulations bring chemistry concepts to life with realistic visual feedback." },
+      { "title": "Personal progress", "text": "Track XP, streaks, and achievements as you grow your confidence in the lab." },
+      { "title": "Arabic and English", "text": "Switch between languages effortlessly and enjoy a fully localized experience." }
+    ],
+    "whyChooseTitle": "Why choose our platform",
+    "whyChooseItems": [
+      "Safe and risk-free experiment practice",
+      "Modern visuals and premium educational design",
+      "Guided learning that supports independent thinking"
+    ],
+    "processTitle": "Interactive learning process",
+    "processSteps": [
+      "Read the concept and choose your experiment",
+      "Run the reaction and observe the outcome",
+      "Reflect on the science and earn your next milestone"
+    ],
+    "safetyTitle": "Safety first, curiosity always",
+    "safetyText": "Every experience is designed to feel real without the risks of a physical lab. Students can explore freely and learn responsibly.",
+    "teacherTitle": "Teacher benefits",
+    "teacherItems": [
+      "Ready-to-use classroom demonstrations",
+      "Clear visual explanations for complex topics",
+      "Flexible and engaging digital learning tools"
+    ],
+    "studentTitle": "Student benefits",
+    "studentItems": [
+      "Learn by doing in a guided virtual space",
+      "Build confidence through repeated practice",
+      "Stay motivated with progress and achievement systems"
+    ],
+    "missionTitle": "Mission",
+    "missionText": "To make chemistry accessible, safe, and exciting for every learner through modern digital experiences.",
+    "visionTitle": "Vision",
+    "visionText": "To become a global benchmark for interactive science education that inspires discovery and academic growth.",
+    "ctaTitle": "Ready to bring chemistry to life?",
+    "ctaText": "Start your first experiment today and turn concepts into discoveries.",
+    "ctaPrimary": "Start experimenting",
+    "ctaSecondary": "Visit the lab"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message"
+  },
+  "chatbot": {
+    "name": "Flasko",
+    "online": "Online now",
+    "resetTitle": "Reset",
+    "placeholder": "Type your question...",
+    "suggestions": [
+      "Where do I start?",
+      "Tell me about the virtual lab",
+      "How do I earn XP?",
+      "Is it safe?"
+    ],
+    "greeting": "Hi! I'm Flasko 🧪 your Virtual Chemistry Lab assistant. Ask me about experiments, the lab, or how to get started!",
+    "responses": {
+      "start": "The best start is the Experiments page — pick an easy one like \"Acid-Base Titration\" and hit Start. I just opened it for you! 🚀",
+      "lab": "The Virtual Lab lets you mix HCl, NaOH, and an indicator and watch pH and temperature react live. Try it yourself! 🧪",
+      "xp": "You earn XP every time you finish an experiment, and unlock badges on the Achievements page. Keep your daily streak going for bonus XP! 🌟",
+      "safe": "Everything here is 100% virtual — no spills, no fumes, no real risk. Feel free to experiment freely! 🛡️",
+      "leaderboard": "Here's this week's leaderboard 🏆",
+      "contact": "Opened the contact page for you — reach out anytime! ✉️",
+      "hi": "Hey there! 👋 How can I help with your chemistry lab today?",
+      "thanks": "You're welcome! 😊 I'm always here if you need me.",
+      "fallback": "Try asking about \"experiments\", \"the lab\", or \"XP points\" — I can help right away 🧪"
+    }
+  },
+  "experiments": {
+    "acid-base-titration": {
+      "title": "Acid-Base Titration",
+      "desc": "Neutralize hydrochloric acid with sodium hydroxide and watch the indicator change color.",
+      "tag": "Acids & Bases",
+      "level": "Easy"
+    },
+    "elephant-toothpaste": {
+      "title": "Elephant Toothpaste",
+      "desc": "A dramatic decomposition reaction of hydrogen peroxide.",
+      "tag": "Chemical Reactions",
+      "level": "Medium"
+    },
+    "electrolysis-of-water": {
+      "title": "Electrolysis of Water",
+      "desc": "Split water into hydrogen and oxygen using electricity.",
+      "tag": "Electrochemistry",
+      "level": "Medium"
+    },
+    "esterification": {
+      "title": "Making a Fruity Ester",
+      "desc": "Create a banana-scented ester from an alcohol and an acid.",
+      "tag": "Organic Chemistry",
+      "level": "Hard"
+    },
+    "flame-test": {
+      "title": "Flame Test",
+      "desc": "Identify a metal by the color of its flame.",
+      "tag": "Lab Skills",
+      "level": "Easy"
+    },
+    "vitamin-c-in-juice": {
+      "title": "Vitamin C in Juice",
+      "desc": "Measure the vitamin C content in different fruit juices.",
+      "tag": "Everyday Chemistry",
+      "level": "Easy"
+    }
+  },
+  "categories": {
+    "all": "All",
+    "acidsBases": "Acids & Bases",
+    "reactions": "Chemical Reactions",
+    "electro": "Electrochemistry",
+    "organic": "Organic Chemistry",
+    "skills": "Lab Skills",
+    "everyday": "Everyday Chemistry"
+  }
+}
